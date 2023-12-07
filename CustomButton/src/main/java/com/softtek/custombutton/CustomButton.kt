@@ -3,7 +3,6 @@ package com.softtek.custombutton
 import android.content.Context
 import android.util.AttributeSet
 import android.view.LayoutInflater
-import android.widget.Button
 import androidx.constraintlayout.widget.ConstraintLayout
 
 class CustomButton @JvmOverloads constructor(
